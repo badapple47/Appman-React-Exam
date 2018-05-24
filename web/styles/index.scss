@@ -1,7 +1,10 @@
 :global {
     // global style here
     .logo-spin {
-        animation: App-logo-spin infinite 3s linear;
+        margin-bottom: 60px;
+        margin-top: 5%;
+        width: 180px;
+        animation: App-logo-spin infinite 2s linear;
     }
 
     @keyframes App-logo-spin {

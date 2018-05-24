@@ -1,0 +1,71 @@
+
+.App{
+    background-color:#F8F8FF;
+}
+
+#column {
+
+    padding-top: 5%;
+    padding-bottom : 20%;
+  
+
+}
+
+#email{
+    border: 2px solid #e7e7e7;
+    border-radius:16px;
+    height: 40px;
+}
+
+#password{
+    
+    border: 2px solid #e7e7e7;
+    height: 40px;
+    border-radius:16px;
+}
+
+#email:focus {
+    border-color : #242526;
+}
+
+#password:focus {
+    border-color : #242526;
+}
+
+.create-account{
+    margin-top: 5%;
+float: right;
+
+}
+.forgot-password{
+    margin-top: 5%;
+ float: left;
+ }
+
+ a { color: #00BFFF; }
+ a:hover { color: #00BFFF; }
+
+
+
+#signinBtn{
+
+    margin-top: 8%;
+    margin-bottom: 1%;
+    border-radius:  5px;
+    letter-spacing: 2px;
+    
+
+    color: white;
+    background-color: #00BFFF;
+    padding: 10px 40px 10px 40px;
+
+}
+
+.letter-space{
+    letter-spacing: 1px;
+}
+
+
+.center-block {
+    float: none !important
+}

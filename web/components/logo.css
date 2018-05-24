@@ -1,0 +1,22 @@
+.loader {
+    margin-bottom: 40px;
+    margin-top: 5%;
+    width: 180px;
+    padding-bottom : 5%;
+}
+
+
+/* ไปใช้ index.scss */
+/* .loaderSpin {
+
+   
+    margin-bottom: 60px;
+    margin-top: 5%;
+    width: 180px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+} */
