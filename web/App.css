@@ -32,6 +32,10 @@
     border-color : #242526;
 }
 
+.labelText{
+    font-weight: normal;
+}
+
 .create-account{
     margin-top: 5%;
 float: right;

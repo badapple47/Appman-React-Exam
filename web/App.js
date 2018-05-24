@@ -53,9 +53,9 @@ class App extends Component {
                                 <Logo logoSpin={this.state.logoSpin} />
 
                                 <div className="form-group ">
-                                    <p className="letter-space">E-mail address</p>
+                                    <label className="labelText letter-space">E-mail address</label>
                                     <input type="text" className="form-control" id="email" name="email" onChange={this.handleChange} /> <br />
-                                    <p className="letter-space">Password</p>
+                                    <label className="labelText letter-space">Password</label>
                                     <input type="password" className="form-control" id="password" name="password" onChange={this.handleChange} />
                                 </div>
 
